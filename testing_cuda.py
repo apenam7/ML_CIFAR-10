@@ -27,3 +27,4 @@
 #     print("with GPU:", timer()-start) 
 import tensorflow as tf
 print(tf.__version__)
+import matplotlib
