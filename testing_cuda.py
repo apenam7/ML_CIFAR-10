@@ -25,3 +25,5 @@
 #     start = timer() 
 #     func2(a) 
 #     print("with GPU:", timer()-start) 
+import tensorflow as tf
+print(tf.__version__)
